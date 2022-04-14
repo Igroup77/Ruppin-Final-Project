@@ -4,7 +4,7 @@ master - קובץ README!!!
 
 Rights - הפרוייקט עצמו, מאגר זכויות ממשק אדמין.
 
-Scraper_and_LDA_Model - "פרוייקט צד": PythonApplication - אוטומציה הקוראת פוסטים מתוך קבוצה שהוגדרה וכותב אותם לCSV, 
+Scraper_and_LDA_Model - "פרוייקט צד": PythonApplication - אוטומציה הקוראת פוסטים מתוך קבוצת פייסבוק שהוגדרה וכותב אותם לCSV, 
 	LDA_Model - מודל קלאסטרינג של הדאטה שנאספה בעזרת האוטומציה.
 
 
